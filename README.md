@@ -1,3 +1,8 @@
 - リポジトリのリンク
-  - https://www.figma.com/design/EwOxoqDyVAwvmHSi5MiOAr/%E3%82%A2%E3%82%A4%E3%83%87%E3%[…]%E5%AF%BE%E9%9D%A2vol1_team_a?node-id=0-1&t=7l3yfayTQ3dqCEjM-1
-  - 
+- # MetaWolf
+  - repo: https://github.com/er1ru/metawolf
+  - figma: https://www.figma.com/design/EwOxoqDyVAwvmHSi5MiOAr/%E3%82%A2%E3%82%A4%E3%83%87%E3%[…]%E5%AF%BE%E9%9D%A2vol1_team_a?node-id=0-1&t=7l3yfayTQ3dqCEjM-1
+- # 死守す一分
+  - repo:
+      - front: https://github.com/jack-app/onemin_front
+      - back: https://github.com/jack-app/1min_back
